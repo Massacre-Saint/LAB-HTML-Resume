@@ -1,0 +1,33 @@
+h1 {
+  color: rebeccapurple ;
+}
+body {
+  background-color: rgb(122, 101, 143);
+  font-size: 25px;
+}
+time ::after {
+  border-bottom: 2px;
+}
+
+
+
+#first-job {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: 1rem solid rgba(74, 43, 88, 0.39) ;
+  border-radius: 10px;
+  margin-bottom: 5rem;
+  text-align: center;
+}
+#second-job {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 1rem solid rgba(74, 43, 88, 0.39) ;
+  border-radius: 10px;
+  margin-bottom: 5rem;
+  text-align: center;
+}
+#third-job {
+  font-family: 'Times New Roman', Times, serif;
+  border: 1rem solid rgba(74, 43, 88, 0.39) ;
+  border-radius: 10px;
+  text-align: center;
+}
