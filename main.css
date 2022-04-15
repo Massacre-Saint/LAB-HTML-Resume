@@ -20,14 +20,14 @@ time ::after {
 }
 #second-job {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  border: 1rem solid rgba(74, 43, 88, 0.39) ;
+  border: 18px dashed lightpink ;
   border-radius: 10px;
   margin-bottom: 5rem;
   text-align: center;
 }
 #third-job {
   font-family: 'Times New Roman', Times, serif;
-  border: 1rem solid rgba(74, 43, 88, 0.39) ;
+  border: 2rem ridge rgba(151, 70, 188, 0.39) ;
   border-radius: 10px;
   text-align: center;
 }
